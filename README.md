@@ -50,9 +50,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham1194&theme=react-dark&hide_border=true"/>
 </p>
 
+
 ## 🏆 GitHub Trophies
+
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=gowtham1194&theme=dracula&no-frame=true&v=1"/>
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=gowtham1194&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </p>
 
 ## 👾 Contributions
@@ -64,13 +66,13 @@
 
 ## 🌐 Social Links
 
-<div align="left">
+<div align="center">
 
 <a href="mailto:gowthamsd11@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/gowtham-sd/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
