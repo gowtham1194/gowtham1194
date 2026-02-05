@@ -34,6 +34,12 @@
 
 ###
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gowtham1194/gowtham1194/output/pacman-contribution-graph.svg" />
+</p>
+
+###
+
 <div align="left">
   <a href="mailto:gowthamsd11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
