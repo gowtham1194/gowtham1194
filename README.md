@@ -40,7 +40,7 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gowtham1194&layout=compact&langs_count=6&theme=dracula" height="150"/>
 
-<img src="https://streak-stats.demolab.com?user=gowtham1194&theme=dracula" height="150"/>
+<img src="https://streak-stats.demolab.com?user=gowtham1194&theme=dracula&hide_border=true" height="150"/>
 
 </div>
 
