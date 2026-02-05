@@ -36,12 +36,9 @@
 
 <div align="center">
 
-
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gowtham1194&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gowtham1194&layout=compact&langs_count=6&theme=dracula" height="150"/>
-
 
 <img src="https://streak-stats.demolab.com?user=gowtham1194&theme=dracula" height="150"/>
 
@@ -53,18 +50,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham1194&theme=react-dark&hide_border=true"/>
 </p>
 
-## 📈 Activity Graph
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham1194&theme=react-dark&hide_border=true"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=gowtham1194&theme=dracula&no-frame=true&v=1"/>
 </p>
-
-
-
-
-
-
-
 
 ## 👾 Contributions
 
@@ -87,4 +76,4 @@
 
 </div>
 
----
+
